@@ -1,0 +1,33 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 128.03 127.98">
+  <defs>
+    <linearGradient id="linear-gradient" x1="13.97" y1="-423.35" x2="117.42" y2="-376.2" gradientTransform="matrix(1, 0, 0, -1, 0, -323.69)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#905cfb"/>
+      <stop offset="0.16" stop-color="#6677f8"/>
+      <stop offset="0.38" stop-color="#3596f5"/>
+      <stop offset="0.54" stop-color="#17a9f3"/>
+      <stop offset="0.63" stop-color="#0cb0f2"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="55.43" y1="-375.13" x2="1.96" y2="-327.9" gradientTransform="matrix(1, 0, 0, -1, 0, -323.69)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#905cfb"/>
+      <stop offset="0.07" stop-color="#a554e6"/>
+      <stop offset="0.25" stop-color="#d641b5"/>
+      <stop offset="0.39" stop-color="#f43597"/>
+      <stop offset="0.47" stop-color="#ff318c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="9.12" y1="-430.99" x2="135.38" y2="-351.44" xlink:href="#linear-gradient"/>
+  </defs>
+  <title>icon_YouTrack</title>
+  <g>
+    <g>
+      <path d="M122.42,86.88c-0.4-.3-24-23-24-23s18-19.1,22.7-23.8a21.93,21.93,0,0,0,3.7-4.8,23.44,23.44,0,0,0-34.2-30.6,31.75,31.75,0,0,0-3.4,3c-0.7.7-25.5,23.4-47.1,43.1l40.5,25.6-49.1,51.48s80.5-13.78,83.9-14.38a15.45,15.45,0,0,0,10.5-7.2A15,15,0,0,0,122.42,86.88Z" fill="url(#linear-gradient)"/>
+      <path d="M83.92,55.78A18.14,18.14,0,0,0,77,44L40.22,6.78a23.44,23.44,0,1,0-30.4,35.5l44.4,31A18.54,18.54,0,0,0,83.92,55.78Z" fill="url(#linear-gradient-2)"/>
+    </g>
+    <path d="M42.12,124c0.1,0,42.6-47.7,42.6-47.7l-42.9-27.1c-15.2,13.9-29.2,26.6-32.5,29.6a28.22,28.22,0,0,0,4.7,45.3C19.62,127.18,32,131.08,42.12,124Z" fill="url(#linear-gradient-3)"/>
+  </g>
+  <g>
+    <rect x="24.02" y="23.98" width="80" height="80"/>
+    <rect x="32.12" y="87.78" width="29.3" height="5.3" fill="#fff"/>
+    <path d="M42.82,55.68l-13.5-21.2h9l8.4,14.1,8.5-14.1H64l-13.5,21.1v14h-7.7V55.68Z" fill="#fff"/>
+    <path d="M75.82,41.58H65.12v-7.1h29v7.1H83.52v27.9h-7.7V41.58Z" fill="#fff"/>
+  </g>
+</svg>
